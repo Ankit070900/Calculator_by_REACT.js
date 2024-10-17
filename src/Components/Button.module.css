@@ -1,0 +1,63 @@
+.btnContainer{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.button{
+    width: 75px ;
+    height: 50px;
+    margin: 5px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(90, 87, 87);
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
+.buttons{
+    font-size: 20px;
+    font-weight: 700;
+    width: 180px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(255, 94, 0);
+    cursor: pointer;
+}
+.button_ss{
+    font-size: 20px;
+    font-weight: 700;
+    width: 180px;
+    height: 50px;
+    margin: 5px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(255, 255, 255, 0.815);
+    cursor: pointer;
+}
+.button_s{
+    width: 75px ;
+    height: 50px;
+    margin: 5px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgba(255, 255, 255, 0.815);
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+    
+}
+
+.but{
+    width: 75px ;
+    height: 50px;
+    margin: 5px;
+    border-radius: 25px;
+    border: none;
+    background-color: rgb(255, 94, 0);
+    font-size: 20px;
+    font-weight: 700;
+    cursor: pointer;
+}
